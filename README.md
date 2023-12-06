@@ -1,3 +1,3 @@
-# PV178 Project
+# ToDoList app
 
-Neviem ako to bude fungovať na Linuxe, takže som tam nechal vytváranie súborov v "CurrentFolder", aby som zvýšil pravdepodobnosť úspechu.
+Basic app which was created as a smaller school project where I wanted to try if I can use single definition of dependency injection for both console app and Web API.
